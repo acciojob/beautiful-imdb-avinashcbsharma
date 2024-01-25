@@ -1,2 +1,12 @@
-
-/* Your CSS Code here. */
+img{
+            width: 263px;
+            height: 380;
+            opacity:inherit;
+        }
+        p{
+            position:relative;
+            top:10px;
+            width:fit-content;
+            text-align:center;
+            font-size:large;
+        }
